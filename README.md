@@ -18,8 +18,7 @@ video walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/EMarf2B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/DHVRzAV.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-https://imgur.com/DHVRzAV
 
 [Imgur](https://i.imgur.com/DHVRzAV.gifv)
