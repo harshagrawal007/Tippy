@@ -19,7 +19,7 @@ Video walkthrough
 Here's a walkthrough of implemented user stories:
 
 
-![](EMarf2B - Imgur.gif)
+![](EMarf2B.gif)
 https://imgur.com/DHVRzAV
 
 [img]https://i.imgur.com/DHVRzAV.gif[/img]
