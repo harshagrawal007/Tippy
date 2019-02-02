@@ -1,23 +1,25 @@
 # Tippy
-tipppy is the tip calculator used to calculate tip you need to pay .
-it also lets yout know the exact tip and total
 
-app is made using . xcode and simualted on iphone 8.
+# Pre-work - Tippy tip calculator
+You can use Tipppy to calculate tip you need to pay for any particular amount.
+It also lets you know the exact tip and total
 
-submitted by harsh agrawal
+Submitted by Harsh Agrawal
 
-total hours spent = 4 hours
+Time spent: 4 hours spent in total
 
 
 The following **required** functionality is complete:
 [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 
-video walkthrough
+Video walkthrough
 
 
 Here's a walkthrough of implemented user stories:
+
 https://imgur.com/DHVRzAV
+
 [img]https://i.imgur.com/DHVRzAV.gif[/img]
 
 <img src='https://i.imgur.com/DHVRzAV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
