@@ -22,6 +22,8 @@ https://imgur.com/DHVRzAV
 
 [img]https://i.imgur.com/DHVRzAV.gif[/img]
 
+<img src="https://i.imgur.com/DHVRzAV.gif" width=250>
+
 <img src='https://i.imgur.com/DHVRzAV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
